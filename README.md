@@ -1,3 +1,2 @@
-- 👋 Hello im Obj
-- 🐍 I'm trying to get better at python
-- 📫 If you have any question add my discord - obj#1234
+yo im obj
+curretly learning: Python, java, html, css
